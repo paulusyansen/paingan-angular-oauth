@@ -1,5 +1,4 @@
-# angular-6-jwt-authentication-example
+### Paingan Angular oauth 2
+Sample project for angular with oauth2 (microservice)
 
-Angular 6 JWT Authentication Example with Webpack 4
-
-To see a demo and further details go to http://jasonwatmore.com/post/2018/05/23/angular-6-jwt-authentication-example-tutorial
+Angular 7 Oauth2 Authentication Example with Webpack 4
